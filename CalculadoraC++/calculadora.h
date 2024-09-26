@@ -1,10 +1,10 @@
-class Caclculadora 
+class Calculadora 
 {
     public:
         double Calcular(double x, char operador, double y);
 };
 
-double Caclculadora::Calcular(double x, char oper, double y)
+double Calculadora::Calcular(double x, char oper, double y)
 {
     switch(oper)
     {

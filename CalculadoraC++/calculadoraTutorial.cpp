@@ -14,7 +14,7 @@ int main()
     cout << "CALCULADORA TESTE" << endl;
     cout << "coloque dois numeros e um operador" << endl;
     
-    Caclculadora c;
+    Calculadora c;
     while(true)
     {
         cin >> x >> operador >> y;
